@@ -1,5 +1,5 @@
-var num_1;
-var num = 15;
+let num_1;
+let num = 15;
 if (num==0) {
 	document.open();
 	document.write("Tienes " + num + " años, eres un recien nacido, Bienvenido cristalito JianxinPeekLove ");
