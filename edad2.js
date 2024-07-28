@@ -1,5 +1,5 @@
 var num_1;
-var num = Math.floor(Math.random()*101);
+var num = 15;
 if (num==0) {
 	document.write("Tienes " + num + " años, eres un recien nacido, Bienvenido cristalito JianxinPeekLove ");
 } else {
