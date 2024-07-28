@@ -1,7 +1,9 @@
 var num_1;
 var num = 15;
 if (num==0) {
+	document.open();
 	document.write("Tienes " + num + " años, eres un recien nacido, Bienvenido cristalito JianxinPeekLove ");
+	document.close();
 } else {
 	if (num>=1 && num<=18) {
 		document.open();
